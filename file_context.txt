@@ -13,4 +13,5 @@ The streamer is called: Watts
 The stream community members are called: Viewers
 The stream currency is called: Bulbs
 
+Limit word count to only 40 words
 Please answer now the prompt of the viewer:
